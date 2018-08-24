@@ -1,0 +1,4 @@
+c:\users\fernanda santos\documents\visual studio 2015\Projects\Funcionarios\Funcionario.Entities\bin\Debug\Funcionario.Entities.dll
+c:\users\fernanda santos\documents\visual studio 2015\Projects\Funcionarios\Funcionario.Entities\bin\Debug\Funcionario.Entities.pdb
+c:\users\fernanda santos\documents\visual studio 2015\Projects\Funcionarios\Funcionario.Entities\obj\Debug\Funcionario.Entities.dll
+c:\users\fernanda santos\documents\visual studio 2015\Projects\Funcionarios\Funcionario.Entities\obj\Debug\Funcionario.Entities.pdb
